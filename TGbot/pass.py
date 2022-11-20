@@ -26,15 +26,9 @@ def phone(message):
         bot.send_message(message.chat.id, 'Отправьте свой номер телефона, чтобы подтвердить, что вы являетесь родителем, чтобы вернуться к началу нажмите /start', reply_markup=keyboard)
 
 
-#комментарий от арины
-#комментарий от мелании
-#привет))))
-
 
 
 
 bot.polling(none_stop=True, interval=0)
 
 
-
-#комментарий от вадима
